@@ -1,0 +1,36 @@
+.greenyellowBG {
+    background-color: greenyellow!important;
+}
+.darkcyanBG {
+    background-color: darkcyan;
+}
+.darkgreyBG {
+    background-color: darkgrey;
+}
+.lightgreyBG {
+    background-color: lightgrey;
+}
+.gainsboroBG {
+    background-color: gainsboro;
+}
+.ghostwhiteBG {
+    background-color: ghostwhite;
+}
+.firebrickBG {
+    color: white;
+    background-color: firebrick;
+}
+.darkredBG {
+    color: white;
+    background-color: darkred;
+}
+.darkseagreenBG {
+    background-color: darkseagreen;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+
+}
